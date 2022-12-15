@@ -1,0 +1,7 @@
+{
+  "deployApp": true,
+  "storageAccountNames": [
+    "<yourname>finalexam1",
+    "<yourname>finalexam2"
+  ]
+}
